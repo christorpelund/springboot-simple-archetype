@@ -1,2 +1,2 @@
-springboot-simpe-archetype
+springboot-simple-archetype
 ==========================
